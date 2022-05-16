@@ -4,7 +4,7 @@ summary: Development of ROS Package for Localization and Path Planning of Turtle
 tags:
   - SLAM
   - ROS
-date: '2021-06-30T00:00:00Z'
+date: '2021-06-30'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/im7RJ/ROS-Navigation-Turtlebot3-Project'

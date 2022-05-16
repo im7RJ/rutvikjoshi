@@ -7,7 +7,7 @@ tags:
   - Statistical Classification
   - Medical Imaging
   - PyTorch
-date: '2022-01-15T00:00:00Z'
+date: '2022-01-15'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/im7RJ/Detecting-COVID-19-with-Chest-X-Ray-using-PyTorch'

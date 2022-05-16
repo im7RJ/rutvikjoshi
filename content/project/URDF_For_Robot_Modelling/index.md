@@ -4,7 +4,7 @@ summary: Development of URDF file and .yaml file for ROS Controlfor ROS Control.
 tags:
   - Robot Modelling
   - ROS
-date: '2021-07-30T00:00:00Z'
+date: '2021-07-30'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://github.com/im7RJ/URDF-for-Robot-Modeling-TheConstruct'
