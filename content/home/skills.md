@@ -29,13 +29,13 @@ feature:
     icon_pack: custom
     name: Gazebo
   - description: 4/5
-    icon: matlab
-    icon_pack: custom
-    name: Matlab
-  - description: 3.5/5
     icon: c-plus-plus
     icon_pack: custom
     name: C++
+  - description: 4/5
+    icon: matlab
+    icon_pack: custom
+    name: Matlab
   - description: 3.5/5
     icon: creo
     icon_pack: custom
