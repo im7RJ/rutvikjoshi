@@ -6,11 +6,11 @@ title: Rutvik Joshi
 superuser: true
 
 # Role/position/tagline
-role: Robotics Engineer
+role: Robotics Engineer @ FlytBase
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Georgia Tech
+  - name: OMSCS @ Georgia Tech
     url: https://www.gatech.edu/
 
 # Short bio (displayed in user profile at end of posts)
